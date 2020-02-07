@@ -1,1 +1,1 @@
-# DATA608
+repository contains solutions for assignment#1
